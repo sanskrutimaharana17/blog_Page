@@ -1,0 +1,47 @@
+    h1 {
+        border: 10cm;
+        color: beige;
+        text-align: center;
+    }
+    
+    body {
+        background-color: rgb(17, 17, 17);
+    }
+    
+    #info,
+    main {
+        color: blanchedalmond;
+    }
+    
+    .foto {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    
+    .main {
+        text-align: center;
+        color: rgb(216, 186, 186)
+    }
+    
+    .housefoto {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    
+    h3 {
+        color: white;
+    }
+    
+    p {
+        color: rgb(209, 174, 158);
+        text-align: left;
+    }
+    
+    footer {
+        color: blanchedalmond;
+        text-align: center;
+    }
